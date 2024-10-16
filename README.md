@@ -1,1 +1,1 @@
-THie is just a example
+This is just a example of other branch.
