@@ -1,2 +1,3 @@
 This is an example of README file.
-I am actually from group 1.
+We are working on a group project.
+This is version 1.
